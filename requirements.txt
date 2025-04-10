@@ -1,0 +1,7 @@
+streamlit==1.44.1
+openai==1.72.0
+pypdf==5.4.0
+python-dotenv==1.1.0
+pandas==2.2.3
+numpy==2.2.4
+requests==2.31.0
